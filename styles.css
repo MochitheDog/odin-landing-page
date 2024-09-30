@@ -211,3 +211,18 @@ ul a {
     justify-content: flex-end;
     text-wrap: nowrap;
 }
+
+footer {
+    background-color: #1F2937;
+    height: 100px;
+}
+
+.footer-copyright {
+    display: flex;
+    color:#E5E7EB;
+    font-family: Roboto;
+    font-size: 14px;
+    justify-content: center;
+    align-items: center;
+    padding: 30px;
+}
